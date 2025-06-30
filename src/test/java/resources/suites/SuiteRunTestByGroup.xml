@@ -1,0 +1,13 @@
+<suite name="SuiteRunByMethod" verbose="1">
+    <test name="FirstTest">
+        <groups>
+            <run>
+                <include name="smoke"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="com.anhtester.firstpackage.FirstClass">
+            </class>
+        </classes>
+    </test>
+</suite>

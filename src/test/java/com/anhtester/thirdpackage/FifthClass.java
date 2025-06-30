@@ -1,8 +1,8 @@
-package com.anhtester.secondpackage;
+package com.anhtester.thirdpackage;
 
 import org.testng.annotations.Test;
 
-public class SecondClass {
+public class FifthClass {
     @Test
     public void firstTest() {
         System.out.println("First test method");
